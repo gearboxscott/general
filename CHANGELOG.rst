@@ -14,6 +14,7 @@ Minor Changes
 -------------
 
 - Name correction
+- Fix issues found with ansible lint
 
 Bugfixes
 --------
