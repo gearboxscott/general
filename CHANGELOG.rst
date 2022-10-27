@@ -7,6 +7,25 @@ GearBoxScott General Collection Release Notes
 Release Summary
 ---------------
 
+v1.0.3
+======
+
+Minor Changes
+-------------
+
+- Name correction
+
+Bugfixes
+--------
+
+- None
+
+New Modules
+-----------
+
+- None
+
+
 v1.0.2
 ======
 
