@@ -1,0 +1,3 @@
+[submodule "roles/role_git"]
+	path = roles/role_git
+	url = git@github.com:gearboxscott/role_git.git

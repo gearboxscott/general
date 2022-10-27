@@ -1,6 +1,6 @@
-======================================
-Reyes Compute Collection Release Notes
-======================================
+=============================================
+GearBoxScott General Collection Release Notes
+=============================================
 
 .. contents:: Topics
 
